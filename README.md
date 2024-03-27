@@ -1,18 +1,17 @@
-### ola👍
+### Ola👍
 **Joaoheheha/joaoheheha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **QUEM SOU EU
 
-- ola, sou um estudante do colegio estadual guilherme de almeida
- - estou aprendendo a linguagem de progamacao 
- - eu quero evoluir e me tornar melho 👍
+- Ola, sou um estudante do colégio estadual Guilherme de Almeida.
+ - Estou aprendendo linguagem de progamação.
+ - eu quero evoluir e me tornar o melhor.
  - 
 **COMO ENTRAR EM CONTATO
 
-email= rodrigues.silva.joao1810@escola.pr.gov.br
-instagram = @paojap87
+E-mail= rodrigues.silva.joao1810@escola.pr.gov.br
+Instagram = @Cactozero1
+Youtube= Cacto zero
 
-"o odio e um lugar aonde um homem vai quando nao consegue surportar a tristesa"
-goto o ferreiro - berserk
-
-😀👍
+"O ódio, é um lugar aonde um homem vai quando não consegue surportar a tristesa"
+Goto o ferreiro - Berserk
