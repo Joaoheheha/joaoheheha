@@ -6,7 +6,7 @@
 - Ola, sou um estudante do colégio estadual Guilherme de Almeida.
  - Estou aprendendo linguagem de progamação.
  - eu quero evoluir e me tornar o melhor.
- - 
+   
 **COMO ENTRAR EM CONTATO
 
 E-mail= rodrigues.silva.joao1810@escola.pr.gov.br
